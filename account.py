@@ -1,6 +1,6 @@
 #### BANK ACCOUNT APP ####
 # Case Use: Quick Practice for OOP - Creating a bank account class
-# Bank account has a value stored in balance. You can withdraw & deposit to change your balance. 
+# Bank account has a value stored in a person's balance. You can withdraw & deposit to change your balance. 
 # Can be expanded with a GUI.
 
 #base class
